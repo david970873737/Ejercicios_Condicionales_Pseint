@@ -7,7 +7,7 @@ Algoritmo ejercicio_for_2
 	Leer cantidad_prod
 	
 	resumen<- ""
-	para i<- 1 Hasta cantidad_prod con paso 5 Hacer
+	para i<- 1 Hasta cantidad_prod Hacer
 		Escribir "cual es el nombre del producto"
 		Leer producto
 		Escribir "cual es el precio del producto"
@@ -21,3 +21,4 @@ Algoritmo ejercicio_for_2
 	Escribir "Este es tu resumen de tus productos comprados" resumen
 	Escribir "PRECIO TOTAL : " total
 FinAlgoritmo
+
